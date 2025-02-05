@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Axel Carrillo&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Feb 2025 21:26:11 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Feb 2025 21:39:29 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homework 1</title>
+      <link>http://localhost:1313/posts/riegeo_hw01/</link>
+      <pubDate>Tue, 04 Feb 2025 21:39:29 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/riegeo_hw01/</guid>
+      <description>&lt;h2 id=&#34;prove-that-if-m-is-a-path-connected-smooth-manifold-then-given-p_1p_2in-m-there-exists-a-differentiable-map-from-p_1-to-p_2&#34;&gt;Prove that if $M$ is a path-connected smooth manifold then given $p_1,p_2\in M$ there exists a differentiable map from $p_1$ to $p_2$.&lt;/h2&gt;
+&lt;p&gt;Remembering the definition of differentiable map:&lt;/p&gt;
+&lt;h2 id=&#34;let-snmin-m_nmathbbr-mtm-prove-that-sn-is-a-manifold-of-dimension-nn12-show-that-the-function-is-differentiable-and-compute-df_m-for-any-min-m_nmathbbr-in-particular-compute-df_operatornameid_n&#34;&gt;Let $S(n):={M\in M_n(\mathbb{R})| M^t=M}$. Prove that $S(n)$ is a manifold of dimension $n(n+1)/2$. Show that the function is differentiable and compute $df_M$ for any $M\in M_n(\mathbb{R})$. In particular compute $df_{\operatorname{Id}_n}$.&lt;/h2&gt;
+&lt;p&gt;##Show that a subset $X$ of a manifold $M$ is a submanifold of the same dimension if and only if is open.&lt;/p&gt;
+&lt;h2 id=&#34;given-two-smooth-manifolds-mn&#34;&gt;Given two smooth manifolds $M,N$&lt;/h2&gt;
+</description>
+    </item>
+    
     <item>
       <title>Goma</title>
       <link>http://localhost:1313/posts/goma/</link>

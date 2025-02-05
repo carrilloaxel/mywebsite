@@ -17,7 +17,7 @@ categories = "categories"
 
 [params]
 title="Axel's Website"
-author = "Michael Neuper"
+author = "Axel Carrillo"
 description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
 customCSS = []
 customJS = []
@@ -32,21 +32,19 @@ numberedSubtitles = true
   [params.commentEngine]
   code = """
   <script src="https://giscus.app/client.js"
-        data-repo="michaelneuper/website"
-        data-repo-id="R_kgDOIjPNaQ"
-        data-category="General"
-        data-category-id="DIC_kwDOIjPNac4CaklA"
+        data-repo="carrilloaxel/comments"
+        data-repo-id="R_kgDON0mcQw"
+        data-category-id="DIC_kwDON0mcQ84CmrOB"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="gruvbox"
+        data-input-position="bottom"
+        data-theme="gruvbox_light"
         data-lang="en"
-        data-loading="lazy"
         crossorigin="anonymous"
         async>
-  </script>
+</script>
   """
 
   [params.buymeacoffee]
