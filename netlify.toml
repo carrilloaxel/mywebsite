@@ -1,0 +1,7 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.143.1"  # Reemplaza con la versión que usas en local
+
