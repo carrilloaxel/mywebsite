@@ -2,31 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Axel Carrillo&#39;s Website</title>
-    <link>http://localhost:1313/</link>
+    <link>https://texify3.michaelneuper.com/</link>
     <description>Recent content on Axel Carrillo&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://texify3.michaelneuper.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homework 1</title>
-      <link>http://localhost:1313/posts/riegeo_hw01/</link>
+      <link>https://texify3.michaelneuper.com/posts/riegeo_hw01/</link>
       <pubDate>Tue, 04 Feb 2025 21:39:29 -0600</pubDate>
       
-      <guid>http://localhost:1313/posts/riegeo_hw01/</guid>
-      <description>&lt;h2 id=&#34;prove-that-if-m-is-a-path-connected-smooth-manifold-then-given-p_1p_2in-m-there-exists-a-differentiable-map-from-p_1-to-p_2&#34;&gt;Prove that if $M$ is a path-connected smooth manifold then given $p_1,p_2\in M$ there exists a differentiable map from $p_1$ to $p_2$.&lt;/h2&gt;
+      <guid>https://texify3.michaelneuper.com/posts/riegeo_hw01/</guid>
+      <description>&lt;p&gt;For shortest we will refer a smooth manifold simply as a manifold.&lt;/p&gt;
+&lt;h2 id=&#34;prove-that&#34;&gt;Prove that:&lt;/h2&gt;
+&lt;h3 id=&#34;a-the-sphere-is-a-manifold-of-dimension-2&#34;&gt;(a) The sphere is a manifold of dimension 2.&lt;/h3&gt;
+&lt;h3 id=&#34;b-the-torus-is-a-manifold-of-dimension-2&#34;&gt;(b) The torus is a manifold of dimension 2.&lt;/h3&gt;
+&lt;h3 id=&#34;c-if-m-and-n-are-manifolds-then-mtimes-n-is-a-manifold&#34;&gt;(c) If $M$ and $N$ are manifolds, then $M\times N$ is a manifold.&lt;/h3&gt;
+&lt;h3 id=&#34;d-the-homogenous-space-of-dimension-2-is-a-manifold&#34;&gt;(d) The homogenous space of dimension 2 is a manifold.&lt;/h3&gt;
+&lt;h2 id=&#34;show-that&#34;&gt;Show that:&lt;/h2&gt;
+&lt;h3 id=&#34;a-every-manifold-is-locally-compact&#34;&gt;(a) Every manifold is locally compact.&lt;/h3&gt;
+&lt;h3 id=&#34;b-every-manifold-is-locally-path-connected&#34;&gt;(b) Every manifold is locally path-connected.&lt;/h3&gt;
+&lt;h3 id=&#34;c-every-connected-manifold-is-path-connected&#34;&gt;(c) Every connected manifold is path-connected.&lt;/h3&gt;
+&lt;h2 id=&#34;prove-that-if-m-is-a-path-connected-manifold-then-given-p_1p_2in-m-there-exists-a-differentiable-map-from-p_1-to-p_2&#34;&gt;Prove that if $M$ is a path-connected manifold then given $p_1,p_2\in M$ there exists a differentiable map from $p_1$ to $p_2$.&lt;/h2&gt;
 &lt;p&gt;Remembering the definition of differentiable map:&lt;/p&gt;
 &lt;h2 id=&#34;let-snmin-m_nmathbbr-mtm-prove-that-sn-is-a-manifold-of-dimension-nn12-show-that-the-function-is-differentiable-and-compute-df_m-for-any-min-m_nmathbbr-in-particular-compute-df_operatornameid_n&#34;&gt;Let $S(n):={M\in M_n(\mathbb{R})| M^t=M}$. Prove that $S(n)$ is a manifold of dimension $n(n+1)/2$. Show that the function is differentiable and compute $df_M$ for any $M\in M_n(\mathbb{R})$. In particular compute $df_{\operatorname{Id}_n}$.&lt;/h2&gt;
-&lt;p&gt;##Show that a subset $X$ of a manifold $M$ is a submanifold of the same dimension if and only if is open.&lt;/p&gt;
-&lt;h2 id=&#34;given-two-smooth-manifolds-mn&#34;&gt;Given two smooth manifolds $M,N$&lt;/h2&gt;
+&lt;h2 id=&#34;let-phi-x-and-psi-y-two-local-charts-of-pin-m-then-we-know-that-br-lbrace-fracpartialpartial-xi_prbrace-and-lbrace-fracpartialpartial-yi_prbracei-br-are-basis-of-t_pm-compute-the-coeficients-of-the-basis-change-matrix&#34;&gt;Let $(\phi, X)$ and $(\psi, Y)$ two local charts of $p\in M$. Then we know that &lt;!-- raw HTML omitted --&gt; $\lbrace \frac{\partial}{\partial x^i}|_p\rbrace$ and $\lbrace \frac{\partial}{\partial y^i}|_p\rbrace$i &lt;!-- raw HTML omitted --&gt; are basis of $T_pM$. Compute the coeficients of the basis change matrix.&lt;/h2&gt;
+&lt;h2 id=&#34;show-that-a-subset-x-of-a-manifold-m-is-a-submanifold-of-the-same-dimension-if-and-only-if-is-open&#34;&gt;Show that a subset $X$ of a manifold $M$ is a submanifold of the same dimension if and only if is open.&lt;/h2&gt;
+&lt;h2 id=&#34;show-that-given-a-manifold-m-of-dimension-n-el-haz-tangente-tm-es-una-manifold-of-dimension-2n&#34;&gt;Show that given a manifold $M$ of dimension $n$, el haz tangente $TM$ es una manifold of dimension $2n$.&lt;/h2&gt;
+&lt;h2 id=&#34;given-two-smooth-manifolds-mn-compute-t_pqmtimes-n-in-addition-compute-the-tangent-space-of-a-point-of-a-mathbbr-vector-space-of-finite-dimension&#34;&gt;Given two smooth manifolds $M,N$ compute $T_{(p,q)}(M\times N)$. In addition compute the tangent space of a point of a $\mathbb{R}$-vector space of finite dimension.&lt;/h2&gt;
 </description>
     </item>
     
     <item>
       <title>Goma</title>
-      <link>http://localhost:1313/posts/goma/</link>
+      <link>https://texify3.michaelneuper.com/posts/goma/</link>
       <pubDate>Tue, 04 Feb 2025 21:26:11 -0600</pubDate>
       
-      <guid>http://localhost:1313/posts/goma/</guid>
+      <guid>https://texify3.michaelneuper.com/posts/goma/</guid>
       <description>&lt;p&gt;this is goma&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://texify3.michaelneuper.com/goma.jpeg&#34; alt=&#34;my image&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

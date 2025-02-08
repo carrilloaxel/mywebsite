@@ -7,4 +7,6 @@ title = 'Goma'
 
 this is goma
 
+![my image](/goma.jpeg)
+
 
